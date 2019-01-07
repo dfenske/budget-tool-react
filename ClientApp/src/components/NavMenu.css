@@ -1,0 +1,19 @@
+﻿@import "~@ps/payscale-icons/css/payscale-icons.css";
+
+.nav {
+    background-color: #3b8070;
+    padding: 15px;
+    color: #fff;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav__link {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+}
+
+.actions {
+    display: flex;
+}
